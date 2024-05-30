@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning TypeScript , JavaScript
 - 💞️ I am A Student At GIAIC
-- 📫 How to reach me 03242716610 / sajidzaidi416@gmail.com
+- 📫 How to reach me sajidzaidi416@gmail.com
 - ⚡ Fun fact: roaster
 
 <!---
