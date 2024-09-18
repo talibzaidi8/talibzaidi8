@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @talibzaidi8
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning TypeScript , JavaScript
+- 🏆 i have completed my 1st giaic quarter in which i have learned typescript, JavaScript
+- 🌱 I’m currently learning nodejs
 - 💞️ I am A Student At GIAIC
 - 📫 How to reach me sajidzaidi416@gmail.com
 - ⚡ Fun fact: roaster
